@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
+<div class="books-page-bg">
 <div class="container">
     <h1>Books</h1>
     <div class="row">
@@ -17,5 +18,6 @@
             </div>
         @endforeach
     </div>
+</div>
 </div>
 @endsection
