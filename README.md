@@ -65,6 +65,7 @@ php artisan key:generate
 npm install
 
 # creo il database da phpmyadmin
+# nomi tabelle al plurale in minuscolo e se sono di più parole devono essere in snake case parola1_parola2
 
 # inserisco i dati per il collegamento al db in env
 
